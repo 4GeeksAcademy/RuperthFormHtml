@@ -1,0 +1,169 @@
+.mainBox {
+    height: 450px;
+    width: 800px;
+    background-color: white;
+
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border: 1px solid purple;
+   
+    border-radius: 3px;
+
+}
+
+.payment{
+    display: flex;
+    width: 798px;
+    height: 50px;
+    background-color: whitesmoke;
+    margin-bottom: 10px;
+    align-items: center;
+    font-weight: bold;
+    text-indent: 20px;
+    justify-content: left;
+    border-radius: 3px;
+}
+.field1 {
+    display: flex;
+    width: 760px;
+    height: 32px;
+    background-color: rgb(231, 169, 169);
+    display: flex;
+    align-items: center; 
+    margin: auto;
+    text-indent: 20px;
+    border-radius: 3px;
+}
+
+.centralBox {
+    width: 798px;
+    height: 360px;
+
+    display: flex;
+
+
+    margin-top: 2px;
+}
+
+.details{
+    width: 800px;
+    height: 50px;
+    margin-bottom: auto;
+    margin-top: -16px;
+
+}
+
+.card3{
+    margin-right: auto;
+    text-align: left;
+
+}
+.form-control {
+
+    width: 20px;
+    height: 26px;
+    border-radius: 3px;
+}
+
+#textoos {
+    text-indent: 5px;
+    text-align: left;
+}
+
+
+.boxes{
+ 
+    width: 100%;
+    height: 240px;
+}
+
+#col1{
+    width: 250px;
+    height: 240px;
+
+    text-align: left;
+
+}
+
+#col2{
+    width: 200px;
+    height: 240px;
+
+    text-indent: 5px;
+   text-align: left;
+}
+
+#emoticonos {
+    
+    justify-content: center; 
+    width: 180px; 
+    height: 20px; 
+    background-color: grey;
+    border-radius: 3px;
+    margin-left: 2px;
+
+}
+
+#emoticonos .form-check-input {
+    transform: scale(0.6); 
+    margin-right: auto; 
+}
+
+#emoticonos .form-check-label {
+    font-size: 10px; 
+}
+
+#emoticonos .form-check-inline {
+    margin-right: 5px;
+}
+
+#cardss{
+    margin-bottom:6px;
+    margin-left: auto;
+}
+
+#states{
+
+    margin: auto;
+    text-align: left;
+}
+
+
+#firstName{
+    margin-top: 10px;
+    text-align: left;
+    
+}
+
+
+#notas{
+
+    font-size: 10px;
+}
+
+
+.hola{
+
+    background-color: whitesmoke;
+height: 42px;
+margin-top: -2px;
+
+}
+
+
+#send,#cancel{
+    font-size: 12px; 
+    border-radius: 3px;
+    float: right;
+    text-align: right;
+    margin-top: 6px;
+    margin-right: 10px;
+    }
+
+    footer {
+        font-size: 12px; 
+        margin-top: auto; 
+    }
+    
